@@ -1,0 +1,23 @@
+{
+  "name": "my-taxi-finder",
+  "version": "1.0.0",
+  "description": "My gnarly Nuxt.js project",
+  "author": "Francisco",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "leaflet": "^1.5.1",
+    "leaflet-routing-machine": "^3.2.12",
+    "nuxt": "^2.0.0",
+    "vue2-leaflet": "^2.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
