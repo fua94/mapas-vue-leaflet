@@ -176,7 +176,7 @@ export default {
             try{
                 const resp = await axios.get(URI_RUTAS)
                 const length = resp.data.length
-                
+
                 if(length){
                     this.rutas = resp.data
                 }else{

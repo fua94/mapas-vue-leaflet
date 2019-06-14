@@ -1,4 +1,6 @@
-# my-taxi-finder
+# vue-leaflet-nuxtjs
+
+# pseudo tiempo real ;)
 
 > My gnarly Nuxt.js project
 
